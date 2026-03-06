@@ -12,6 +12,7 @@ public class Test55Application {
 		    boolean isPresent=false;
 		    int y=200;
 		    char x='a';
+		    int y=200;
 		    double z=10.3;
 		   boolean ispresent=false;
 		   float m =10.3f;
