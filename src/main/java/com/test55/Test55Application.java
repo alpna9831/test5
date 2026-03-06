@@ -16,7 +16,11 @@ public class Test55Application {
 		    double z=10.3;
 		   boolean ispresent=false;
 		   float m =10.3f;
+<<<<<<< HEAD
 		   boolean isSub=true;
+=======
+		   char ch='x'
+>>>>>>> 35dbb0108fb50ae6d52ba4185cc04de81f167fb3
 		
 		SpringApplication.run(Test55Application.class, args);
 	}
